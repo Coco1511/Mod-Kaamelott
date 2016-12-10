@@ -1,9 +1,0 @@
-Bonjour,
-
-- Allez dans le dossier du jeu World_of_Tanks puis dans res/audioww.
-- Prenez le fichier voiceover.bnk et gardez-le quelque part dans votre ordinateur (c'est
-les voix du jeu de base, le garder permet de repasser avec les voix normales du jeu si celle
-de Kaamelott vous saoulent).
-- Remplacez ce fichier par celui fourni dans le mod Kaamelott.
-
-Bon jeu !
